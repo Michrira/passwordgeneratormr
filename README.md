@@ -43,5 +43,7 @@ This is a snippet of how the webpage should look and operate
 
 
 ## Deployed area link:
+https://github.com/Michrira/passwordgeneratormr.git
 
+https://michrira.github.io/passwordgeneratormr/
 
