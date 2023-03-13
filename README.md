@@ -33,13 +33,13 @@ N/A
 
 This is a snippet of how the webpage should look and operate 
 
-![Screenshot 2023-03-12 155739](https://user-images.githubusercontent.com/126362926/224579433-05afef13-0466-4827-88ff-228de61be26a.png)
+![Screenshot 2023-03-13 121554](https://user-images.githubusercontent.com/126362926/224808341-97713927-e943-442a-a304-c1fd0c4de550.png)
 ![Screenshot 2023-03-12 155824](https://user-images.githubusercontent.com/126362926/224579434-02100c2f-e5b3-4154-8a0f-46fb9a3b499c.png)
 ![Screenshot 2023-03-12 155900](https://user-images.githubusercontent.com/126362926/224579435-d6c1a273-0d37-4769-b9ba-1d36d5feebc5.png)
 ![Screenshot 2023-03-12 160013](https://user-images.githubusercontent.com/126362926/224579436-0996050a-fe32-4c5c-b891-b6e667f53e1b.png)
 ![Screenshot 2023-03-12 160031](https://user-images.githubusercontent.com/126362926/224579437-6362abf8-7633-4b4a-92da-4153964751a5.png)
 ![Screenshot 2023-03-12 160047](https://user-images.githubusercontent.com/126362926/224579438-37e1fd5c-54cf-472e-acb6-a57618759793.png)
-![Screenshot 2023-03-12 160214](https://user-images.githubusercontent.com/126362926/224579440-d2cdb2df-2731-4558-b712-ffd928fea249.png)
+![Screenshot 2023-03-13 121635](https://user-images.githubusercontent.com/126362926/224808348-42ed72ce-29b8-4be1-80eb-820e0be1f0a2.png)
 
 
 ## Deployed area link:
