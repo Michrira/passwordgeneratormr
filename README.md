@@ -3,7 +3,7 @@ A password generator for a hw assignment
 
 
 # A password generator created using JavaScript
-This is a password generator created using JS that will generate a password between 8 and 128 characters using lower case, upper case, numeric and special characters to generate a password.
+This is a password generator created using JS (I did change one line in the HTML to add a 'copy to clipboard' button) that will generate a password between 8 and 128 characters using lower case, upper case, numeric and special characters to generate a password.
 
 ## Description 
 
