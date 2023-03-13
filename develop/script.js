@@ -65,3 +65,10 @@ var charset = "";
 
   return password;
 }
+// This will allow the user to click a button to copy their code to the clipboard
+function copyToClipboard() {
+  var copyText = document.getElementById("password");
+  copyText.select();
+  document.execCommand("copy")
+  alert("Copied the text: " + copyText.value);
+}
